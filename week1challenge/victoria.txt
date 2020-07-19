@@ -1,0 +1,4 @@
+Reflections for the week
+1. Understood web scrapping better.
+2. Understood groupby and its usefulness better. 
+3. Read the Twitter API documentation. 
