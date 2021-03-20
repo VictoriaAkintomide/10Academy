@@ -101,7 +101,7 @@ isort @ file:///C:/ci/isort_1594747411782/work
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi @ file:///C:/ci/jedi_1592833832328/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 json5==0.9.5
 jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
