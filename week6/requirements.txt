@@ -188,7 +188,7 @@ pyflakes==2.2.0
 Pygments==2.6.1
 pygpu==0.7.6
 pygsheets==2.0.3.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.3.1
 pymc3 @ file:///home/conda/feedstock_root/build_artifacts/pymc3_1593006466850/work
 PyMySQL==0.9.3
