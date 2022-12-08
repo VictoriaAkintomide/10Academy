@@ -30,7 +30,7 @@ Bottleneck==1.3.2
 brotlipy==0.7.0
 bs4==0.0.1
 cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1593420445823/work
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 cftime @ file:///D:/bld/cftime_1595215844964/work
 chardet==3.0.4
